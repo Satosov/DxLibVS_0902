@@ -1,0 +1,235 @@
+﻿'DxLibVS_0902.exe' (Win32): 'C:\github\GitTestG19\DxLibVS_0902\Debug\DxLibVS_0902.exe' が読み込まれました。シンボルが読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\win32u.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\gdi32full.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msvcp_win.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Program Files (x86)\F-Secure\PSB\Ultralight\ulcore\1598269046\fshook32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ws2_32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\combase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1016_none_bb605e21ec921e77\comctl32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\SHCore.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\windows.storage.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\profapi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\umpdc.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\cryptsp.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfplat.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\RTWorkQ.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfreadwrite.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\propsys.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\usp10.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\A-Volute.NahimicDevProps2.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\NahimicOSD.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\ProductInfo.dll' が読み込まれました。
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_c1c69609f385576658f8def701163fcd>::operator ()
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\XInput1_4.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\devobj.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\InputHost.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\clbcatq.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dinput8.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\hid.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\setupapi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\bcrypt.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\wintrust.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msasn1.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\crypt32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msacm32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\MMDevAPI.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\AudioSes.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\ASM.Plugin.AudioDevProps2.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\d3d11.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dxgi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\DXCore.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvmi.inf_amd64_32ef3d5cc44d4a1d\nvdlist.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_020c2c7d3ac4a7d3\igd10iumd32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ncrypt.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ntasn1.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvmi.inf_amd64_32ef3d5cc44d4a1d\nvdlist.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_020c2c7d3ac4a7d3\igdgmm32.dll' が読み込まれました。
+スレッド 0x4bc4 はコード 0 (0x0) で終了しました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_020c2c7d3ac4a7d3\igc32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\IMEJP\IMJPTIP.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\iertutil.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\oleacc.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\IMEJP\IMJPAPI.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMJKAPI.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\policymanager.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msvcp110_win.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\IMEJP\IMJPPRED.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\cabinet.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMETIP.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dui70.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\imecfm.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\wer.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfcore.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\ksuser.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfperfhelper.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfmp4srcsnk.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\CompPkgSup.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\Windows.Media.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\Windows.ApplicationModel.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\twinapi.appcore.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\rmclient.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msmpeg2vdec.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\AppXDeploymentClient.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\StateRepository.Core.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\FirewallAPI.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dnsapi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\nsi.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IPHLPAPI.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\fwbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\MSAudDecMFT.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\avrt.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMESEARCHDLL.DLL' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\D3DCompiler_47.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\wer.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\imecfm.dll' がアンロードされました
+スレッド 0x6004 はコード 0 (0x0) で終了しました。
+スレッド 0x6040 はコード 0 (0x0) で終了しました。
+スレッド 0x6044 はコード 0 (0x0) で終了しました。
+スレッド 0x6030 はコード 0 (0x0) で終了しました。
+スレッド 0x6034 はコード 0 (0x0) で終了しました。
+スレッド 0x6038 はコード 0 (0x0) で終了しました。
+スレッド 0x603c はコード 0 (0x0) で終了しました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\avrt.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\d3d11.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dxgi.dll' がアンロードされました
+スレッド 0x49a0 はコード 0 (0x0) で終了しました。
+スレッド 0x5a58 はコード 0 (0x0) で終了しました。
+スレッド 0x4524 はコード 0 (0x0) で終了しました。
+スレッド 0x3e48 はコード 0 (0x0) で終了しました。
+スレッド 0x5434 はコード 0 (0x0) で終了しました。
+スレッド 0x6020 はコード 0 (0x0) で終了しました。
+スレッド 0x5c18 はコード 0 (0x0) で終了しました。
+スレッド 0x6008 はコード 0 (0x0) で終了しました。
+スレッド 0x601c はコード 0 (0x0) で終了しました。
+スレッド 0x60a4 はコード 0 (0x0) で終了しました。
+スレッド 0x5c68 はコード 0 (0x0) で終了しました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\XInput1_4.dll' がアンロードされました
+スレッド 0x5d28 はコード 0 (0x0) で終了しました。
+スレッド 0x492c はコード 0 (0x0) で終了しました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msacm32.dll' がアンロードされました
+スレッド 0x5d74 はコード 0 (0x0) で終了しました。
+スレッド 0x5f88 はコード 0 (0x0) で終了しました。
+スレッド 0x2efc はコード 0 (0x0) で終了しました。
+スレッド 0x55f4 はコード 0 (0x0) で終了しました。
+スレッド 0x1360 はコード 0 (0x0) で終了しました。
+スレッド 0x4f4 はコード 0 (0x0) で終了しました。
+スレッド 0x439c はコード 0 (0x0) で終了しました。
+スレッド 0x49bc はコード 0 (0x0) で終了しました。
+スレッド 0x1c54 はコード 0 (0x0) で終了しました。
+スレッド 0x1270 はコード 0 (0x0) で終了しました。
+スレッド 0x4194 はコード 0 (0x0) で終了しました。
+スレッド 0x2ce4 はコード 0 (0x0) で終了しました。
+スレッド 0x5658 はコード 0 (0x0) で終了しました。
+スレッド 0x4e7c はコード 0 (0x0) で終了しました。
+スレッド 0x1fa0 はコード 0 (0x0) で終了しました。
+スレッド 0x338c はコード 0 (0x0) で終了しました。
+スレッド 0x5c88 はコード 0 (0x0) で終了しました。
+スレッド 0xe14 はコード 0 (0x0) で終了しました。
+スレッド 0x31ec はコード 0 (0x0) で終了しました。
+スレッド 0x488c はコード 0 (0x0) で終了しました。
+スレッド 0x2e18 はコード 0 (0x0) で終了しました。
+スレッド 0xf38 はコード 0 (0x0) で終了しました。
+スレッド 0x53fc はコード 0 (0x0) で終了しました。
+スレッド 0x5424 はコード 0 (0x0) で終了しました。
+スレッド 0x2150 はコード 0 (0x0) で終了しました。
+スレッド 0x5d18 はコード 0 (0x0) で終了しました。
+スレッド 0x2808 はコード 0 (0x0) で終了しました。
+スレッド 0x5db4 はコード 0 (0x0) で終了しました。
+スレッド 0x37e0 はコード 0 (0x0) で終了しました。
+スレッド 0x44dc はコード 0 (0x0) で終了しました。
+スレッド 0x5d78 はコード 0 (0x0) で終了しました。
+スレッド 0x5dc0 はコード 0 (0x0) で終了しました。
+スレッド 0xb34 はコード 0 (0x0) で終了しました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dui70.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMETIP.DLL' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\iertutil.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\oleacc.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\IMEJP\IMJPTIP.DLL' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\wintrust.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\setupapi.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\hid.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dinput8.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMESEARCHDLL.DLL' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfmp4srcsnk.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\Windows.Media.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\msmpeg2vdec.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\rmclient.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\twinapi.appcore.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\nsi.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\IPHLPAPI.DLL' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\dnsapi.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\fwbase.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\FirewallAPI.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\StateRepository.Core.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\AppXDeploymentClient.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\Windows.ApplicationModel.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\MSAudDecMFT.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1016_none_bb605e21ec921e77\comctl32.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfreadwrite.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\usp10.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' がアンロードされました
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1016_none_bb605e21ec921e77\comctl32.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\mfreadwrite.dll' が読み込まれました。
+'DxLibVS_0902.exe' (Win32): 'C:\Windows\SysWOW64\usp10.dll' が読み込まれました。
+スレッド 0x60bc はコード 0 (0x0) で終了しました。
+スレッド 0x60a8 はコード 0 (0x0) で終了しました。
+スレッド 0x5d84 はコード 0 (0x0) で終了しました。
+スレッド 0x60c4 はコード 0 (0x0) で終了しました。
+スレッド 0x60b8 はコード 0 (0x0) で終了しました。
+スレッド 0x60c0 はコード 0 (0x0) で終了しました。
+スレッド 0x60ac はコード 0 (0x0) で終了しました。
+スレッド 0x60b0 はコード 0 (0x0) で終了しました。
+スレッド 0x602c はコード 0 (0x0) で終了しました。
+プログラム '[9832] DxLibVS_0902.exe' はコード 0 (0x0) で終了しました。
