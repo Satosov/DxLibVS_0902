@@ -1,32 +1,32 @@
 #include "DxLib.h"
 
-#define GAME_WIDTH			960	//ç”»é¢ã®æ¨ªã®å¤§ãã•
-#define GAME_HEIGHT			640	//ç”»é¢ã®ç¸¦ã®å¤§ãã•
-#define GAME_COLOR			32	//ç”»é¢ã®ã‚«ãƒ©ãƒ¼ãƒ“ãƒƒãƒˆ
+#define GAME_WIDTH			960	//‰æ–Ê‚Ì‰¡‚Ì‘å‚«‚³
+#define GAME_HEIGHT			640	//‰æ–Ê‚Ìc‚Ì‘å‚«‚³
+#define GAME_COLOR			32	//‰æ–Ê‚ÌƒJƒ‰[ƒrƒbƒg
 
-#define GAME_WINDOW_BAR		0	//ã‚¿ã‚¤ãƒˆãƒ«ãƒãƒ¼ã¯ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã«ã™ã‚‹
-#define GAME_WINDOW_NAME	"DxLib_Movie"	//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã®ã‚¿ã‚¤ãƒˆãƒ«
+#define GAME_WINDOW_BAR		0	//ƒ^ƒCƒgƒ‹ƒo[‚ÍƒfƒtƒHƒ‹ƒg‚É‚·‚é
+#define GAME_WINDOW_NAME	"DxLib_Movie"	//ƒEƒBƒ“ƒhƒE‚Ìƒ^ƒCƒgƒ‹
 
 #define MOVIE_PATH ".\\MOVIE\\neko.mp4"
 int handle = -1;
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
-	SetOutApplicationLogValidFlag(FALSE);				//log.txtã‚’å‡ºåŠ›ã—ãªã„
-	ChangeWindowMode(TRUE);								//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ãƒ¢ãƒ¼ãƒ‰ã«è¨­å®š
-	SetGraphMode(GAME_WIDTH, GAME_HEIGHT, GAME_COLOR);	//æŒ‡å®šã®æ•°å€¤ã§ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’è¡¨ç¤ºã™ã‚‹
-	SetWindowStyleMode(GAME_WINDOW_BAR);				//ã‚¿ã‚¤ãƒˆãƒ«ãƒãƒ¼ã¯ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã«ã™ã‚‹
-	SetMainWindowText(TEXT(GAME_WINDOW_NAME));			//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã®ã‚¿ã‚¤ãƒˆãƒ«ã®æ–‡å­—
-	SetAlwaysRunFlag(TRUE);								//éžã‚¢ã‚¯ãƒ†ã‚£ãƒ–ã§ã‚‚å®Ÿè¡Œã™ã‚‹
+	SetOutApplicationLogValidFlag(FALSE);				//log.txt‚ðo—Í‚µ‚È‚¢
+	ChangeWindowMode(TRUE);								//ƒEƒBƒ“ƒhƒEƒ‚[ƒh‚ÉÝ’è
+	SetGraphMode(GAME_WIDTH, GAME_HEIGHT, GAME_COLOR);	//Žw’è‚Ì”’l‚ÅƒEƒBƒ“ƒhƒE‚ð•\Ž¦‚·‚é
+	SetWindowStyleMode(GAME_WINDOW_BAR);				//ƒ^ƒCƒgƒ‹ƒo[‚ÍƒfƒtƒHƒ‹ƒg‚É‚·‚é
+	SetMainWindowText(TEXT(GAME_WINDOW_NAME));			//ƒEƒBƒ“ƒhƒE‚Ìƒ^ƒCƒgƒ‹‚Ì•¶Žš
+	SetAlwaysRunFlag(TRUE);								//”ñƒAƒNƒeƒBƒu‚Å‚àŽÀs‚·‚é
 
-	if (DxLib_Init() == -1) { return -1; }	//ï¼¤ï¼¸ãƒ©ã‚¤ãƒ–ãƒ©ãƒªåˆæœŸåŒ–å‡¦ç†
+	if (DxLib_Init() == -1) { return -1; }	//‚c‚wƒ‰ƒCƒuƒ‰ƒŠ‰Šú‰»ˆ—
 
 	handle = LoadGraph(MOVIE_PATH);
 
 	while (TRUE)
 	{
-		if (ProcessMessage() != 0) { break; }	//ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸å‡¦ç†ã®çµæžœãŒã‚¨ãƒ©ãƒ¼ã®ã¨ãã€å¼·åˆ¶çµ‚äº†
-		if (ClearDrawScreen() != 0) { break; }	//ç”»é¢ã‚’æ¶ˆåŽ»ã§ããªã‹ã£ãŸã¨ãã€å¼·åˆ¶çµ‚äº†
+		if (ProcessMessage() != 0) { break; }	//ƒƒbƒZ[ƒWˆ—‚ÌŒ‹‰Ê‚ªƒGƒ‰[‚Ì‚Æ‚«A‹­§I—¹
+		if (ClearDrawScreen() != 0) { break; }	//‰æ–Ê‚ðÁ‹Ž‚Å‚«‚È‚©‚Á‚½‚Æ‚«A‹­§I—¹
 
 		if (GetMovieStateToGraph(handle) == 0)
 		{
@@ -37,15 +37,15 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		}
 		DrawGraph(0, 0, handle, FALSE);
 
-		DrawString(0, 0, "å‹•ç”»ã‚’å†ç”Ÿã—ã¦ã„ã¾ã™ãƒ»ãƒ»ãƒ»", GetColor(255, 255, 255));
-		DrawString(0, 0, "çŒ«ã®å‹•ç”»", GetColor(255,255,255));	//å‹•ç”»ã®ã‚¿ã‚¤ãƒˆãƒ«ã‚’æç”»
+		DrawString(0, 0, "“®‰æ‚ðÄ¶‚µ‚Ä‚¢‚Ü‚·EEE", GetColor(255, 255, 255));
+		DrawString(0, 20, "”L‚Ì“®‰æ", GetColor(255,255,255));	//“®‰æ‚Ìƒ^ƒCƒgƒ‹‚ð•`‰æ
 
-		ScreenFlip();		//ãƒ¢ãƒ‹ã‚¿ã®ãƒªãƒ•ãƒ¬ãƒƒã‚·ãƒ¥ãƒ¬ãƒ¼ãƒˆã®é€Ÿã•ã§è£ç”»é¢ã‚’å†æç”»
+		ScreenFlip();		//ƒ‚ƒjƒ^‚ÌƒŠƒtƒŒƒbƒVƒ…ƒŒ[ƒg‚Ì‘¬‚³‚Å— ‰æ–Ê‚ðÄ•`‰æ
 	}
 
 	DeleteGraph(handle);
 
-	DxLib_End();	//ï¼¤ï¼¸ãƒ©ã‚¤ãƒ–ãƒ©ãƒªä½¿ç”¨ã®çµ‚äº†å‡¦ç†
+	DxLib_End();	//‚c‚wƒ‰ƒCƒuƒ‰ƒŠŽg—p‚ÌI—¹ˆ—
 
 	return 0;
 }
